@@ -1,6 +1,6 @@
 # <center>Saltiest Hacker News Trolls Backend</center>
 
-[Heroku App](https://salty-nick.herokuapp.com)
+[Heroku App](https://saltyhacker.herokuapp.com)
 
 #### Pitch
 
